@@ -3,4 +3,5 @@ step right
 jump
 skip
 go left go right and enjoy 
-novi ples poku�amo poslatei
+novi ples pokušamo poslatei
+sada šaljemo sa git huba u Brčko
