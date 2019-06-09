@@ -2,3 +2,4 @@ step left
 step right
 jump
 skip
+go left go right and enjoy 
