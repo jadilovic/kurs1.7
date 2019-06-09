@@ -3,3 +3,4 @@ step right
 jump
 skip
 go left go right and enjoy 
+novi ples pokušamo poslatei
