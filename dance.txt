@@ -5,3 +5,5 @@ skip
 go left go right and enjoy 
 novi ples pokuÅ¡amo poslatei
 sada Å¡aljemo sa git huba u BrÄko
+sad šaljemo iz brèkog u github
+
